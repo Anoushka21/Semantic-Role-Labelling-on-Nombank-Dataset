@@ -23,5 +23,5 @@ Paper: <a href="https://drive.google.com/file/d/1oSSYjcFjBh8p4mo_gUisLHmg32Sm934
 
 ---
 ### CONTRIBUTORS
-Anoushka Gupta (ag8733@nyu.edu) <br>
-Arunima Mitra  (am13018@nyu.edu)
+1.Anoushka Gupta  <br>
+2.Arunima Mitra 
